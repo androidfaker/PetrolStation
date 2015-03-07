@@ -1,0 +1,6 @@
+bin
+out
+gen
+.settings
+.Ds_Store
+.idea
